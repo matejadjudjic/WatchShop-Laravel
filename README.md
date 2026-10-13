@@ -3,8 +3,8 @@
 
 👤 Test kredencijali
 Admin:
-Email: nina@gmail.com
-Password: bojana
+Email: mateja@gmail.com
+Password: mateja
 
 
 User:
